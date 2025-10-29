@@ -33,10 +33,16 @@
 
 ---
 
+>STEAM PLAYTIME AND GAMES
+>
+>https://github.com/ijsbol/steam-readme-stats
+>
+>
+
 
 
 >GIFS
 >
->Any gifs of official media are most likely from tenor
+>Any gifs of official media are most likely from tenor or tumblr
 >
 >
