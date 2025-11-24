@@ -89,7 +89,7 @@
 <table>
 <tr>
   
-<td>have any questions when it comes to making a repository? Feel free to ask me on my [atabook!](https://vexulii.atabook.org/)</td>
+<td>have any questions when it comes to making a repository? Feel free to ask me on my atabook, https://vexulii.atabook.org/!</td>
 
 </tr>
 </table>
