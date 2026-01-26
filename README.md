@@ -108,7 +108,7 @@
 >
 > <img src="https://64.media.tumblr.com/76f1fbdbed717c438b1181a78b74d8f2/df8d0b53b357ef51-97/s400x600/ccbb9ed8e9b58974917d71c978fb3c99708f3d08.pnj" width="550" title="code for colored text">
 >
->EXPLANATION: "$" is the main signifyer that the text is colored. There are other ways to do it, but this way also has more options for text—which will be mentioned later. "\color" is, obviously, your color. Your hex code is whatever color you want for your text. But also be mindful that colors don't blend in with your gh background. "\textsf" is where the text will begin. Yes, textsf isn't a typo.
+>EXPLANATION: "$" is the main signifyer that the text is colored. There are other ways to do it, but this way also has more options for text—which will be mentioned later. "\color" is, obviously, your color. Your hex code (#000000) is whatever color you want for your text. But also be mindful that colors don't blend in with your gh background. "\textsf" is where the text will begin. Yes, textsf isn't a typo.
 >
 >What's fun about this method, is you can also change the size of your texts without using a hashtag! For example: 
 >
@@ -126,6 +126,9 @@
 > <img src="https://64.media.tumblr.com/8797a78082cfc9805fcc2fc18f2e9b33/7cbbc31da3573a31-08/s400x600/c4124e299305b14b23fea3497245496c38b857f1.pnj" width="400" title="results of code">
 > <br>EXPLANATION: "< details >" is what opens the code (what tells the site its a drop down), and "< summary >" is what the title is for the drop down. It can be anything, however, if you're trying to have it in a certain spot on your github, be mindful of how long it gets. The "/" that gets put in at the end closes the code so it doesn't affect anything else, and only this segment.
 
+>
+>NOTE: When creating several drop downs inside of one singular drop down, the code could break, even when done correctly. I find that adding an extra "< /details >" at the very end OR after each "< /details >" typically fixes the problem :) 
+
 ---
 
 > More to be added soon! I may also make a separate GH acc so i can teach ppl how to make cool repos... maybe... its been on my mind for a long time JAJA
@@ -142,3 +145,12 @@
 
 </tr>
 </table>
+
+<table>
+<tr>
+
+<td>OR, skip the code! I (as of 1/26) am making gh templates over on https://github.com/F2U-gh-templates for anyone to use! </td>
+
+</tr>
+</table>
+
