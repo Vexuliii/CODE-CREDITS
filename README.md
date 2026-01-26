@@ -94,6 +94,14 @@
 
 ---
 
+>EDIT PICTURES
+>
+>https://image.pi7.org/
+>
+>
+
+---
+
 </details>
 
 <details>
